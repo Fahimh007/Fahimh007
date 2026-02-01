@@ -15,13 +15,6 @@
 ## 🚀 About Me
 
 I'm a passionate **Full Stack Developer** and **Software Engineer** who loves building innovative web applications and solving complex problems. With a strong foundation in competitive programming and modern web technologies, I strive to create efficient, scalable, and user-friendly solutions.
-
-- 🔭 I'm currently working on exciting full-stack projects
-- 🌱 I'm constantly learning and exploring new technologies
-- 💡 I enjoy tackling algorithmic challenges and competitive programming
-- 🎯 Goal: Building impactful software that makes a difference
-- 📫 Reach me at: **[Your Email]**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -56,11 +49,51 @@ I'm a passionate **Full Stack Developer** and **Software Engineer** who loves bu
 
 <div align="center">
 
-| Platform | Profile | Stats |
-|----------|---------|-------|
-| 🔴 **Codeforces** | [@Zaddel_hasan](https://codeforces.com/profile/Zaddel_hasan) | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) |
-| 🟡 **LeetCode** | [@Md_Zaddel_Hasan007](https://leetcode.com/u/Md_Zaddel_Hasan007/) | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) |
-| 🟢 **Beecrowd** | [Profile #679247](https://judge.beecrowd.com/en/profile/679247) | ![Beecrowd](https://img.shields.io/badge/Beecrowd-00A859?style=for-the-badge&logo=code&logoColor=white) |
+### 🔥 Problem Solving Stats
+
+<a href="https://codeforces.com/profile/Zaddel_hasan">
+  <img src="https://img.shields.io/badge/Codeforces-Zaddel__hasan-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F8ACB" alt="Codeforces"/>
+</a>
+<a href="https://codeforces.com/profile/Zaddel_hasan">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces-readme-stats.vercel.app/api/user?username=Zaddel_hasan&query=$.result[0].rating&label=Rating&style=for-the-badge&logo=codeforces&logoColor=white&color=1F8ACB&labelColor=2C3E50" alt="CF Rating"/>
+</a>
+<a href="https://codeforces.com/profile/Zaddel_hasan">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces-readme-stats.vercel.app/api/user?username=Zaddel_hasan&query=$.result[0].maxRating&label=Max%20Rating&style=for-the-badge&logo=codeforces&logoColor=white&color=FF6B6B&labelColor=2C3E50" alt="CF Max Rating"/>
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
+  <img src="https://img.shields.io/badge/LeetCode-Md__Zaddel__Hasan007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode"/>
+</a>
+<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Solved&query=totalSolved&style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116&labelColor=2C3E50" alt="LeetCode Problems"/>
+</a>
+<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Easy&query=easySolved&style=for-the-badge&logo=leetcode&logoColor=white&color=00AF9B&labelColor=2C3E50" alt="Easy"/>
+</a>
+<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Medium&query=mediumSolved&style=for-the-badge&logo=leetcode&logoColor=white&color=FFB800&labelColor=2C3E50" alt="Medium"/>
+</a>
+<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Hard&query=hardSolved&style=for-the-badge&logo=leetcode&logoColor=white&color=FF375F&labelColor=2C3E50" alt="Hard"/>
+</a>
+
+<br/>
+
+<a href="https://judge.beecrowd.com/en/profile/679247">
+  <img src="https://img.shields.io/badge/Beecrowd-Profile%20%23679247-00A859?style=for-the-badge&logo=code&logoColor=white&labelColor=00A859" alt="Beecrowd"/>
+</a>
+
+<br/><br/>
+
+### 📊 LeetCode Stats Card
+
+[![Zaddel's LeetCode Stats](https://leetcard.jacoblin.cool/Md_Zaddel_Hasan007?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/Md_Zaddel_Hasan007/)
+
+### 📈 Codeforces Stats
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Zaddel_hasan&theme=github_dark&force_username=true&border_color=1F8ACB)
 
 </div>
 
