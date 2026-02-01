@@ -5,16 +5,16 @@
 ### 💻 Full Stack Developer | 🚀 Software Engineer | 🎯 Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zaddel-s-dev-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zaddel-hasan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaddel-hasan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zaddel-hasan-b7b9b7228/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaddelhasan)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **Software Engineer** who loves building innovative web applications and solving complex problems. With a strong foundation in competitive programming and modern web technologies, I strive to create efficient, scalable, and user-friendly solutions.
+### I'm a passionate **Full Stack Developer** and **Software Engineer** who loves building innovative web applications and solving complex problems. With a strong foundation in competitive programming and modern web technologies, I strive to create efficient, scalable, and user-friendly solutions.
 ---
 
 ## 🛠️ Tech Stack
@@ -149,8 +149,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge)](https://zaddel-s-dev-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-zaddel-hasan)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge)](mailto:fahimhassan67760@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-zaddel-hasan-b7b9b7228/)
 
 </div>
 
