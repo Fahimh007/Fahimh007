@@ -49,55 +49,84 @@ I'm a passionate **Full Stack Developer** and **Software Engineer** who loves bu
 
 <div align="center">
 
-### 🔥 Problem Solving Stats
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔴 Codeforces
 
 <a href="https://codeforces.com/profile/Zaddel_hasan">
-  <img src="https://img.shields.io/badge/Codeforces-Zaddel__hasan-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F8ACB" alt="Codeforces"/>
-</a>
-<a href="https://codeforces.com/profile/Zaddel_hasan">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces-readme-stats.vercel.app/api/user?username=Zaddel_hasan&query=$.result[0].rating&label=Rating&style=for-the-badge&logo=codeforces&logoColor=white&color=1F8ACB&labelColor=2C3E50" alt="CF Rating"/>
-</a>
-<a href="https://codeforces.com/profile/Zaddel_hasan">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces-readme-stats.vercel.app/api/user?username=Zaddel_hasan&query=$.result[0].maxRating&label=Max%20Rating&style=for-the-badge&logo=codeforces&logoColor=white&color=FF6B6B&labelColor=2C3E50" alt="CF Max Rating"/>
+  <img src="https://img.shields.io/badge/Profile-Zaddel__hasan-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
 
 <br/>
 
-<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
-  <img src="https://img.shields.io/badge/LeetCode-Md__Zaddel__Hasan007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode"/>
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Zaddel_hasan&theme=github_dark&force_username=true&border_color=1F8ACB)
+
+<a href="https://codeforces.com/profile/Zaddel_hasan">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces-readme-stats.vercel.app/api/user?username=Zaddel_hasan&query=$.result[0].rating&label=Rating&style=flat-square&logo=codeforces&logoColor=white&color=1F8ACB" alt="CF Rating"/>
 </a>
-<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Solved&query=totalSolved&style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116&labelColor=2C3E50" alt="LeetCode Problems"/>
+<a href="https://codeforces.com/profile/Zaddel_hasan">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces-readme-stats.vercel.app/api/user?username=Zaddel_hasan&query=$.result[0].maxRating&label=Max%20Rating&style=flat-square&logo=codeforces&logoColor=white&color=FF6B6B" alt="CF Max"/>
 </a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🟡 LeetCode
+
 <a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Easy&query=easySolved&style=for-the-badge&logo=leetcode&logoColor=white&color=00AF9B&labelColor=2C3E50" alt="Easy"/>
-</a>
-<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Medium&query=mediumSolved&style=for-the-badge&logo=leetcode&logoColor=white&color=FFB800&labelColor=2C3E50" alt="Medium"/>
-</a>
-<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Hard&query=hardSolved&style=for-the-badge&logo=leetcode&logoColor=white&color=FF375F&labelColor=2C3E50" alt="Hard"/>
+  <img src="https://img.shields.io/badge/Profile-Md__Zaddel__Hasan007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
 <br/>
+
+[![Zaddel's LeetCode Stats](https://leetcard.jacoblin.cool/Md_Zaddel_Hasan007?theme=dark&font=Ubuntu)](https://leetcode.com/u/Md_Zaddel_Hasan007/)
+
+<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Solved&query=totalSolved&style=flat-square&logo=leetcode&logoColor=white&color=FFA116" alt="Total"/>
+</a>
+<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Easy&query=easySolved&style=flat-square&color=00AF9B" alt="Easy"/>
+</a>
+<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Medium&query=mediumSolved&style=flat-square&color=FFB800" alt="Medium"/>
+</a>
+<a href="https://leetcode.com/u/Md_Zaddel_Hasan007/">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Md_Zaddel_Hasan007&label=Hard&query=hardSolved&style=flat-square&color=FF375F" alt="Hard"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🟢 Beecrowd
 
 <a href="https://judge.beecrowd.com/en/profile/679247">
-  <img src="https://img.shields.io/badge/Beecrowd-Profile%20%23679247-00A859?style=for-the-badge&logo=code&logoColor=white&labelColor=00A859" alt="Beecrowd"/>
+  <img src="https://img.shields.io/badge/Profile-%23679247-00A859?style=for-the-badge&logo=code&logoColor=white" alt="Beecrowd"/>
 </a>
 
 <br/><br/>
 
-### 📊 LeetCode Stats Card
+<a href="https://judge.beecrowd.com/en/profile/679247">
+  <img src="https://img.shields.io/badge/Beecrowd-Judge-00A859?style=for-the-badge&logo=code&logoColor=white&labelColor=2C3E50" height="120" alt="Beecrowd Profile"/>
+</a>
 
-[![Zaddel's LeetCode Stats](https://leetcard.jacoblin.cool/Md_Zaddel_Hasan007?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/Md_Zaddel_Hasan007/)
+<br/><br/>
 
-### 📈 Codeforces Stats
+<a href="https://judge.beecrowd.com/en/profile/679247">
+  <img src="https://img.shields.io/badge/View-Full%20Profile-00A859?style=flat-square&logo=code&logoColor=white" alt="View Profile"/>
+</a>
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Zaddel_hasan&theme=github_dark&force_username=true&border_color=1F8ACB)
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
+
 
 
 ## 🎯 Current Focus
