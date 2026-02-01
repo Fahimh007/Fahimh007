@@ -136,7 +136,6 @@ const zaddel = {
     currentlyLearning: ["Advanced Algorithms", "System Design", "Cloud Architecture"],
     workingOn: ["Full Stack Web Applications", "Competitive Programming"],
     interests: ["Problem Solving", "Web Development", "Open Source"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
 
@@ -159,16 +158,3 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
   
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 👁️ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
-
----
-
-⭐️ From [Zaddel](https://github.com/YOUR_GITHUB_USERNAME) with ❤️
-
-</div>
