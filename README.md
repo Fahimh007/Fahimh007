@@ -66,19 +66,6 @@ I'm a passionate **Full Stack Developer** and **Software Engineer** who loves bu
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
@@ -93,11 +80,6 @@ const zaddel = {
 
 ---
 
-## 📈 Contribution Graph
-
-[![Zaddel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
 
 ## 🤝 Let's Connect!
 
