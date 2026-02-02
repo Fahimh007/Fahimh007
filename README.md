@@ -14,7 +14,7 @@
 
 # 🚀 About Me
 
-### I'm a passionate **Full Stack Developer** and **Software Engineer** who loves building innovative web applications and solving complex problems. With a strong foundation in competitive programming and modern web technologies, I strive to create efficient, scalable, and user-friendly solutions.
+### I'm a passionate **Full Stack Developer** and **Software Engineer** who loves building innovative web applications and solving complex problems. I have a strong foundation in competitive programming and modern web technologies. I strive to create efficient, scalable and user-friendly solutions.
 ---
 
 ## 🛠️ Tech Stack
