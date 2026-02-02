@@ -119,7 +119,19 @@
 <br/><br/>
 
 <a href="https://judge.beecrowd.com/en/profile/679247">
-  <img src="https://img.shields.io/badge/Beecrowd-Judge-00A859?style=for-the-badge&logo=code&logoColor=white&labelColor=2C3E50" height="120" alt="Beecrowd Profile"/>
+  <img src="https://img.shields.io/badge/Solved-110-00A859?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Problems Solved"/>
+</a>
+
+<br/>
+
+<a href="https://judge.beecrowd.com/en/profile/679247">
+  <img src="https://img.shields.io/badge/Rank-29,971-00C853?style=for-the-badge&logo=trophy&logoColor=white" alt="Rank"/>
+</a>
+
+<br/>
+
+<a href="https://judge.beecrowd.com/en/profile/679247">
+  <img src="https://img.shields.io/badge/Score-292.88-4CAF50?style=for-the-badge&logo=star&logoColor=white" alt="Score"/>
 </a>
 
 <br/><br/>
