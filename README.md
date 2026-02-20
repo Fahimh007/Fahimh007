@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Md Zaddel Hasan
 
-### 💻 Full Stack Developer | 🚀 Software Engineer | 🎯 Problem Solver
+### 💻 Full Stack Developer | 🚀 AI Engineer | 🎯 Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zaddel-s-dev-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zaddel-hasan-b7b9b7228/)
